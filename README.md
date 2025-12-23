@@ -9,3 +9,11 @@
 3、输入当前已有图纸数量X，并输入当前PT Y，返回满足当前对应结果的概率（即图纸=X PT=Y的概率）。
 
 样本来源是这个帖子：https://tieba.baidu.com/p/10327781646?pid=153012858295&cid=0#153012858295
+
+一键安装需要的依赖：
+
+pip install numpy scipy matplotlib pyinstaller
+
+启动程序：
+
+python blueprint_calculator.py
