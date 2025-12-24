@@ -17,3 +17,7 @@ pip install numpy scipy matplotlib pyinstaller
 启动程序：
 
 python blueprint_calculator.py
+
+-------------------------------------------------------------------------------
+
+新增了100多个样本，更新至v5。
